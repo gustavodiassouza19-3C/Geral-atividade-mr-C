@@ -1,0 +1,3 @@
+nome = ["FABIO FRONT END", "DIEGO MR C", "ANETE BACK END", "MARCIO FLUXOGRAMAS", "PROFESSOR DIEGO AMA FRONT"]
+print(nome(0))
+print(nome[4])
